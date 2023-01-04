@@ -1,7 +1,7 @@
 function changeBG() {    
-    if (document.body.style.backgroundColor == "black"){
-        document.body.style.backgroundColor = "white";
+    if (document.body.style.backgroundColor == "lightyellow"){
+        document.body.style.backgroundColor = "pink";
     }else {
-        document.body.style.backgroundColor = "black";
+        document.body.style.backgroundColor = "lightyellow";
     }
 }
